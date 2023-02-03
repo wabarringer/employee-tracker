@@ -18,11 +18,11 @@ VALUES
     ("Jongy","Brogun", 1, 1),
     ("Dander","Ingle", 1, 1),
     ("Dan","Dungus", 2, NULL),
-    ("Barbara","Egg", 2, 2),
-    ("Diane","Drangle", 2, 2),
+    ("Barbara","Egg", 2, 4),
+    ("Diane","Drangle", 2, 4),
     ("Sandy","Grungerson", 3, NULL),
-    ("Steve","Drambus", 3, 3),
-    ("Steven","Bringle", 3, 3),
+    ("Steve","Drambus", 3, 7),
+    ("Steven","Bringle", 3, 7),
     ("Rongle","Bringer", 4, NULL),
-    ("Kneel","Armstrang", 4, 4),
-    ("Linda","Barangy", 4, 4);
+    ("Kneel","Armstrang", 4, 10),
+    ("Linda","Barangy", 4, 10);
